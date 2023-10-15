@@ -1,0 +1,16 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "main": "./index.tsx",
+  "types": "./index.tsx",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.2",
+    "eslint-config-custom": "*",
+    "tsconfig": "*",
+    "typescript": "^4.5.2"
+  }
+}
